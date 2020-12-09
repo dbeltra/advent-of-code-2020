@@ -1,6 +1,6 @@
 # Day 6: Custom Customs
 
-## Part one
+## Part One
 
 As your flight approaches the regional airport where you'll switch to a much larger plane, **customs declaration forms** are distributed to the passengers.
 
